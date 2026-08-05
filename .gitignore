@@ -1,0 +1,8 @@
+dist/
+*.skill
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.venv/
+__pycache__/
